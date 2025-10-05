@@ -3,9 +3,6 @@
 > **Keep the programming world safe from Assembly!**  
 > Guess the hidden word within 8 attempts before Assembly takes over.
 
-![Game Screenshot](./05ce34b1-c1ed-435d-ab0e-d959960d9547.png)
-![Gameplay Example](./5bc5c6d0-9381-4c2e-9f3d-b3ae16784eb6.png)
-
 ---
 
 ## 🎮 Overview
@@ -81,7 +78,9 @@ http://localhost:5173/
 
 | Gameplay Start | Mid-Game | You Win |
 |----------------|-----------|----------|
-| ![Start](./05ce34b1-c1ed-435d-ab0e-d959960d9547.png) | ![Midgame](./5bc5c6d0-9381-4c2e-9f3d-b3ae16784eb6.png) | 🎉 Confetti celebration! |
+| ![Start](<img width="820" height="708" alt="image" src="https://github.com/user-attachments/assets/d15bf871-ce21-4d1f-b51f-08fb6bd44a24" />
+ | ![Midgame](<img width="787" height="807" alt="image" src="https://github.com/user-attachments/assets/9dd0a8dc-c95f-4223-b7e7-d22f0a597f00" />
+) | 🎉 Confetti celebration! |
 
 ---
 
